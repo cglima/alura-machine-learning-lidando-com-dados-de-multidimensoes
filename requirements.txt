@@ -4,3 +4,6 @@ jupyterlab-git
 jupyterlab_github
 jupyterlab_code_formatter
 black
+pandas
+sklearn
+numpy
