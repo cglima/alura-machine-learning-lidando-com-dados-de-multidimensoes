@@ -7,3 +7,5 @@ black
 pandas
 sklearn
 numpy
+seaborn
+matplotlib
